@@ -1,0 +1,9 @@
+Simple desktop player for www.sfygmosradio.gr
+
+Built using Qt Quick QML (qt4)
+
+Usage:
+
+qmake
+make
+sudo make install
