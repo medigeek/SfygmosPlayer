@@ -1,9 +1,22 @@
 Simple desktop player for www.sfygmosradio.gr
+Built using Qt Quick QML / QWebkit
 
-Built using Qt Quick QML (qt4)
+Requirements
+============
 
-Usage:
+ * To run:
+libqtwebkit-qmlwebkitplugin
+
+ * To build:
+build-essential (g++)
+libqt4-dev
+qt4-qmake
+libqtwebkit-qmlwebkitplugin
+
+Usage
+=====
 
 qmake
 make
 sudo make install
+
