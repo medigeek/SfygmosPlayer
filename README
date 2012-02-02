@@ -6,13 +6,15 @@ Requirements
 ============
 
  * To run:
-libqtwebkit-qmlwebkitplugin
+
+    libqtwebkit-qmlwebkitplugin
 
  * To build:
-build-essential (g++)
-libqt4-dev
-qt4-qmake
-libqtwebkit-qmlwebkitplugin
+
+    build-essential (g++)
+    libqt4-dev
+    qt4-qmake
+    libqtwebkit-qmlwebkitplugin
 
 Usage
 =====
